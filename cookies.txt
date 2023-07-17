@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.digiteum.com	TRUE	/	FALSE	1999999999	PHPSESSID	9306cde715ca52564e94a89c2858e997
-crm.zoho.com	TRUE	/	FALSE	1999999999	6e4b8efee4	fd8630b81c9c18ffffdeb15964102328
-crm.zoho.com	TRUE	/	FALSE	1999999999	crmcsr	0b076b35-4e87-4682-9a47-34f4308ce68b
-crm.zoho.com	TRUE	/	FALSE	1999999999	_zcsr_tmp	0b076b35-4e87-4682-9a47-34f4308ce68b
-crm.zoho.com	TRUE	/	FALSE	1999999999	SameSite	Strict
-crm.zoho.com	TRUE	/	FALSE	1999999999	priority	high
-
