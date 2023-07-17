@@ -1,0 +1,90 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Jul 2023 10:41:12 at https://www.digiteum.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.digiteum.com/ -O1 "C:\Users\user5\Desktop\Work\front-end Automize\digiteum ST2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:41:22	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.digiteum.com/wp-content/themes/blake/editor-style.css?ver=5.9.2
+10:43:05	Warning: 	File not parsed, looks like binary: https://www.digiteum.com/wp-content/plugins/contact-form-with-shortcode/captcha/captcha.php?rand=
+10:45:42	Error: 	"Not Found" (404) at link https://www.digiteum.com/owl.video.play.png (from https://www.digiteum.com/)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/send.png (from https://www.digiteum.com/wp-content/themes/blake/style.min.css?ver=1.0)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/grabbing.png (from https://www.digiteum.com/wp-content/themes/blake/style.min.css?ver=1.0)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/grabbing.png (from https://www.digiteum.com/wp-content/themes/blake/style.min.css?ver=1.0)
+10:46:48	Warning: 	File not parsed, looks like binary: https://www.digiteum.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+10:46:48	Warning: 	File not parsed, looks like binary: https://www.digiteum.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/css/images/bigplay.png (from https://www.digiteum.com/wp-content/themes/blake/css/blog.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/css/images/background.png (from https://www.digiteum.com/wp-content/themes/blake/css/blog.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/css/images/loading.gif (from https://www.digiteum.com/wp-content/themes/blake/css/blog.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/css/images/controls.png (from https://www.digiteum.com/wp-content/themes/blake/css/blog.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/visa.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/mastercard.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/laser.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/diners.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/maestro.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/jcb.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/amex.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/icons/credit-cards/discover.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/ajax-loader@2x.gif (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/img/shopping-bag.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/img/woo-sucess.png (from https://www.digiteum.com/wp-content/themes/blake/css/blake-woocommerce.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/css/ytp-regular.eot (from https://www.digiteum.com/wp-content/themes/blake/css/mb.YTPlayer.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/css/ytp-regular.ttf (from https://www.digiteum.com/wp-content/themes/blake/css/mb.YTPlayer.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/raster.png (from https://www.digiteum.com/wp-content/themes/blake/css/mb.YTPlayer.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/raster@2x.png (from https://www.digiteum.com/wp-content/themes/blake/css/mb.YTPlayer.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/raster_dot.png (from https://www.digiteum.com/wp-content/themes/blake/css/mb.YTPlayer.css?ver=5.9.2)
+10:46:48	Error: 	"Not Found" (404) at link https://www.digiteum.com/wp-content/themes/blake/images/raster_dot@2x.png (from https://www.digiteum.com/wp-content/themes/blake/css/mb.YTPlayer.css?ver=5.9.2)
+10:50:54	Warning: 	File not parsed, looks like binary: https://www.digiteum.com/wp-content/plugins/contact-form-with-shortcode/captcha/captcha.php
+10:52:40	Warning: 	Moved Permanently for https://www.digiteum.com/user-experience-for-iot/
+10:52:40	Warning: 	File has moved from https://www.digiteum.com/user-experience-for-iot/ to https://www.digiteum.com/design-iot-apps-ux-ui-mobile-apps/
+10:53:20	Warning: 	Moved Permanently for www.digiteum.com/robots.txt
+10:53:20	Warning: 	Redirected link is identical because of 'URL Hack' option: www.digiteum.com/robots.txt and https://www.digiteum.com/robots.txt
+10:53:20	Warning: 	Warning moved treated for www.digiteum.com/robots.txt (real one is https://www.digiteum.com/robots.txt)
+10:53:20	Warning: 	Moved Permanently for www.digiteum.com/chatbots/
+10:53:20	Warning: 	Redirected link is identical because of 'URL Hack' option: www.digiteum.com/chatbots/ and https://www.digiteum.com/chatbots/
+10:53:20	Warning: 	File has moved from www.digiteum.com/chatbots/ to https://www.digiteum.com/chatbots/
+10:53:41	Warning: 	Moved Permanently for https://www.digiteum.com/connectivity-smart-home/
+10:53:41	Warning: 	File has moved from https://www.digiteum.com/connectivity-smart-home/ to https://www.digiteum.com/iot-smart-home-automation/
+10:53:44	Warning: 	Moved Permanently for www.digiteum.com/digital-transformation-strategy-plan/
+10:53:44	Warning: 	Redirected link is identical because of 'URL Hack' option: www.digiteum.com/digital-transformation-strategy-plan/ and https://www.digiteum.com/digital-transformation-strategy-plan/
+10:53:44	Warning: 	File has moved from www.digiteum.com/digital-transformation-strategy-plan/ to https://www.digiteum.com/digital-transformation-strategy-plan/
+10:53:54	Warning: 	Moved Permanently for www.digiteum.com/how-data-visualization-impacts-your-business-strategy/
+10:53:54	Warning: 	Redirected link is identical because of 'URL Hack' option: www.digiteum.com/how-data-visualization-impacts-your-business-strategy/ and https://www.digiteum.com/how-data-visualization-impacts-your-business-strategy/
+10:53:54	Warning: 	File has moved from www.digiteum.com/how-data-visualization-impacts-your-business-strategy/ to https://www.digiteum.com/how-data-visualization-impacts-your-business-strategy/
+10:54:18	Warning: 	Moved Permanently for https://www.digiteum.com/what-to-do-with-your-iot-data-in-2018/
+10:54:18	Warning: 	File has moved from https://www.digiteum.com/what-to-do-with-your-iot-data-in-2018/ to https://www.digiteum.com/data-visualization-your-business/
+10:54:18	Warning: 	Moved Permanently for https://www.digiteum.com/winter-crisis-in-health-and-social-care/
+10:54:18	Warning: 	File has moved from https://www.digiteum.com/winter-crisis-in-health-and-social-care/ to https://www.digiteum.com/medical-technology-healthcare-digital-transformation/
+10:55:31	Warning: 	Moved Permanently for https://www.digiteum.com/category/chatbots/page/2/
+10:55:31	Warning: 	File has moved from https://www.digiteum.com/category/chatbots/page/2/ to http://www.digiteum.com/
+10:56:44	Warning: 	Moved Permanently for https://www.digiteum.com/category/expert-view/page/2/
+10:56:44	Warning: 	File has moved from https://www.digiteum.com/category/expert-view/page/2/ to http://www.digiteum.com/blog/
+10:59:03	Warning: 	Moved Permanently for https://www.digiteum.com/capabilities/
+10:59:03	Warning: 	File has moved from https://www.digiteum.com/capabilities/ to https://www.digiteum.com/services/
+10:59:18	Warning: 	Moved Permanently for www.digiteum.com/chatbotsbiz-expert-view/
+10:59:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.digiteum.com/chatbotsbiz-expert-view/ and https://www.digiteum.com/chatbotsbiz-expert-view/
+10:59:18	Warning: 	File has moved from www.digiteum.com/chatbotsbiz-expert-view/ to https://www.digiteum.com/chatbotsbiz-expert-view/
+10:59:36	Warning: 	Moved Permanently for www.digiteum.com/raise-a-chatbot-for-your-business/
+10:59:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.digiteum.com/raise-a-chatbot-for-your-business/ and https://www.digiteum.com/raise-a-chatbot-for-your-business/
+10:59:36	Warning: 	File has moved from www.digiteum.com/raise-a-chatbot-for-your-business/ to https://www.digiteum.com/raise-a-chatbot-for-your-business/
+10:59:52	Warning: 	Moved Permanently for https://www.digiteum.com/how-to-guarantee-success-in-business-partnership/
+10:59:52	Warning: 	File has moved from https://www.digiteum.com/how-to-guarantee-success-in-business-partnership/ to https://www.digiteum.com/
+11:07:51	Error: 	"Error when decompressing" (-1) at link https://www.digiteum.com/breakfast-in-helsinki-сhatbotsbiz/ (from https://www.digiteum.com/category/our-news/page/2/)
+11:07:51	Warning: 	Moved Permanently for www.digiteum.com/top-2017-developers-clutch/
+11:07:51	Warning: 	Redirected link is identical because of 'URL Hack' option: www.digiteum.com/top-2017-developers-clutch/ and https://www.digiteum.com/top-2017-developers-clutch/
+11:07:51	Warning: 	File has moved from www.digiteum.com/top-2017-developers-clutch/ to https://www.digiteum.com/top-2017-developers-clutch/
+11:08:11	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.digiteum.com/category/strategy/page/4/ (from https://www.digiteum.com/category/strategy/page/3/)
+11:08:20	Warning: 	Moved Permanently for https://www.digiteum.com/career/sales-development-representative/
+11:08:20	Warning: 	File has moved from https://www.digiteum.com/career/sales-development-representative/ to https://www.digiteum.com/career/business-development-manager/
+11:08:20	Warning: 	Moved Permanently for https://www.digiteum.com/custom-ios-apps/
+11:08:20	Warning: 	File has moved from https://www.digiteum.com/custom-ios-apps/ to https://www.digiteum.com/ios-app-development-services/
+11:08:23	Warning: 	Moved Permanently for https://www.digiteum.com/10-iot-initiatives-for-a-more-sustainable-future/
+11:08:23	Warning: 	File has moved from https://www.digiteum.com/10-iot-initiatives-for-a-more-sustainable-future/ to https://www.digiteum.com/internet-of-things-energy-management/
+11:08:23	Warning: 	Moved Permanently for https://www.digiteum.com/career/senior-full-stack-engineer/
+11:08:23	Warning: 	File has moved from https://www.digiteum.com/career/senior-full-stack-engineer/ to https://www.digiteum.com/career/
+11:08:26	Warning: 	Moved Permanently for https://www.digiteum.com/portfolio/adoramapix/
+11:08:26	Warning: 	File has moved from https://www.digiteum.com/portfolio/adoramapix/ to https://www.digiteum.com/portfolio/printique/
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 minutes 39 seconds : 2271 links scanned, 2223 files written (611852914 bytes overall) [574790983 bytes received at 346468 bytes/sec], 50710966 bytes transferred using HTTP compression in 539 files, ratio 23%, 1.0 requests per connection
+(26 errors, 53 warnings, 0 messages)
