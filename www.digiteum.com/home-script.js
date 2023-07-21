@@ -128,12 +128,7 @@ const perfmattersUserInteractions = ["keydown", "mousemove", "wheel", "touchmove
 
 
 
-
-
-
-
-
-
+		var ajax_params = { "ajax_url": "https:\/\/www.digiteum.com\/wp-admin\/admin-ajax.php", "nonce": "f9b6c008ca" };
 
 
 
