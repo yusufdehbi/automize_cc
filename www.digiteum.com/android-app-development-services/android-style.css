@@ -92,21 +92,6 @@ header.header_after_scroll.navbar .nav-container i {
 header.header_after_scroll.navbar .nav-container i:hover {
   color: #edb44d;
 }
-#catapult-cookie-bar a {
-  color: #ddd;
-}
-button#catapultCookie {
-  background: #dd170f;
-  color: #fff;
-  border: 0;
-  padding: 6px 9px;
-  border-radius: 3px;
-}
-.has-cookie-bar #catapult-cookie-bar {
-  opacity: 1;
-  max-height: 999px;
-  min-height: 30px;
-}
 .broken_link,
 a.broken_link {
   text-decoration: line-through;
