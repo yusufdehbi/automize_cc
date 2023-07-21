@@ -371,7 +371,6 @@ header.style2 .search_trigger {
   padding-top: 25px;
   padding-bottom: 25px;
 }
-
 .header_after_scroll .dl-menuwrapper button:after,
 header:not(.header_after_scroll) .dl-menuwrapper button:after {
   background: #dd170f;
@@ -381,7 +380,6 @@ header:not(.header_after_scroll) .dl-menuwrapper button:after {
 header.header_after_scroll .blake_minicart_wrapper {
   padding-top: 25px;
 }
-
 li.blake_mega_hide_link > a,
 li.blake_mega_hide_link > a:hover {
   font-family: "Open Sans", Arial, "sans-serif" !important;
@@ -471,7 +469,6 @@ h6 {
 header.navbar {
   background-color: rgba(170, 170, 170, 0);
 }
-
 #catapult-cookie-bar .x_close span,
 body#boxed_layout,
 header.header_after_scroll .navbar-nav > li.blake_mega_menu > .dropdown-menu,
@@ -498,7 +495,6 @@ header.header_after_scroll a.navbar-brand img.logo_after_scroll {
   text-transform: uppercase;
   letter-spacing: 0;
 }
-
 header.header_after_scroll a.navbar-brand {
   margin-top: 17px;
   margin-bottom: 17px;
@@ -540,7 +536,6 @@ header.header_after_scroll a.navbar-brand {
 header .search_input {
   background-color: rgba(23, 22, 29, 0.98);
 }
-
 header .search_close,
 header .search_input input.search_input_value {
   font-size: 30px;
@@ -559,7 +554,6 @@ header .search_input .ajax_search_results ul li a {
   font-size: 14px;
   color: #696969;
 }
-
 header .search_input .ajax_search_results ul li.selected a {
   color: #3d3d3d;
 }
