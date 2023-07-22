@@ -24,25 +24,6 @@ header.navbar .nav-container i:hover:not(.dropdown-menu i:hover) {
 a.broken_link {
   text-decoration: line-through;
 }
-:root {
-  --lazy-loader-animation-duration: 300ms;
-}
-.lazyload,
-.lazyloading {
-  opacity: 0;
-}
-.lazyloaded {
-  opacity: 1;
-  transition: opacity 0.3s;
-  transition: opacity var(--lazy-loader-animation-duration);
-}
-.lazyload {
-  display: none;
-}
-.lazyload[class*="lazy-loader-background-element-"] {
-  display: block;
-  opacity: 1;
-}
 header .nav-container .navbar-header a {
   z-index: 999;
 }
